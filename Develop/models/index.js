@@ -1,4 +1,4 @@
-// import models
+// importing  our models
 const Product = require('./Product');
 const Category = require('./Category');
 const Tag = require('./Tag');
