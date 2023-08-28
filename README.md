@@ -44,4 +44,4 @@
   - Email: lugo.kse23@gmail.com
   
   ## Screenshot
-  ![note-taker-screenshot](images/note-taker.png)
+  ![app-screenshot](assets/ecommerce-backend-screenshot.png)
